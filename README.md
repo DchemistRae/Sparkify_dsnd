@@ -1,6 +1,6 @@
 # Sparkify User Churn Analysis and Prediction
 
-This project is part of the Udacity Data Scientist Nanodegree program. The goal of this project is to analyze user data from the fictional music streaming service Sparkify, and build a model to predict which users are likely to cancel their subscription.
+This project is part of the Udacity Data Scientist Nanodegree program. The goal of this project is to analyze user data from the fictional music streaming service Sparkify, and build a model to predict which users are likely to cancel their subscription referred to as churn in throughout this project.
 
 A dataset containing users activity data was analysed to predict if a customer will churn at somepoint in time or stay with the service. This is important to identify users that might leave and offer them coupons or special promotions to get them to continue using sparkify music streaming service.This project is about demonstrating knowledge of spark scalable data manipulation and machine learning techniques
 
