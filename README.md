@@ -14,7 +14,7 @@ This project requires Python 3.x and the following Python libraries:
 - Seaborn
 
 ## Blog
-Description of this project and results is available on medium using this [link](url_here). This blog provides more indepth information relating to the project technicalities and also explains more about churn and why it is an important metric in business.
+Description of this project and results is available on medium using this [link](https://medium.com/@rasimhi/sparkify-predicting-user-churn-using-customer-activity-log-data-cebf8c9e01c5). This blog provides more indepth information relating to the project technicalities and also explains more about churn and why it is an important metric in business.
 
 ## Data Description
 
